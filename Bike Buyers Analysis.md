@@ -10,8 +10,7 @@
 
 This data analysis project on Excel aims to provide insights into the sales performance of a company's bike sales and the demographics of the buyers along with non-buyers. By analyzing various aspects of the demographics, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-
-<img width="667" alt="Customer Age Brackets" src="https://github.com/piniertekin/excelproject/assets/155672246/a3e4b2d4-ca10-49e9-a379-51383ceb2460">
+<img width="769" alt="Bike Sales Dashboard" src="https://github.com/piniertekin/excelproject/assets/155672246/0691bd8d-9ec9-417e-b1fd-4391cebaec2e">
 
 ### Data Sources
 
@@ -39,6 +38,8 @@ Exploratory data analysis involved exploring the sales data to answer key questi
 - Which age brackets are top buyers?
 - What was the average income of the buyers?
 - What was the customer commute distance?
+  
+<img width="667" alt="Customer Age Brackets" src="https://github.com/piniertekin/excelproject/assets/155672246/a3e4b2d4-ca10-49e9-a379-51383ceb2460">
 
 ### Data Analysis
 
@@ -53,8 +54,6 @@ Some interesting formulas/features we worked with
 
 - Creating a dashboard
 ```
-
-<img width="769" alt="Bike Sales Dashboard" src="https://github.com/piniertekin/excelproject/assets/155672246/552dd6be-5e7c-411c-8fb7-c0c83a30cd22">
 
 ### Results/Findings
 The analysis results are summarized as follows:
