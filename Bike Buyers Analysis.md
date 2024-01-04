@@ -75,3 +75,6 @@ Based on the analysis, we recommend the following actions:
 1. Excel
 2. [GitHub](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
+🚲 
+💻 
+
